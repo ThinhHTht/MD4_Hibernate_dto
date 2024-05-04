@@ -7,6 +7,8 @@
 <body>
 <h1>Store management</h1>
 <br/>
-<a href="categoryController/getAll">Category management</a>
+<a href="categoryController/getAll">Category management</a><br>
+<a href="productController/getAll">Product management</a>
+
 </body>
 </html>
